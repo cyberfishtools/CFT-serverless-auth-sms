@@ -19,3 +19,7 @@ A [serverless](https://serverless.com/) powered API endpoint that automates two 
   ```
 2. Copy API endpoint URL (e.g. https://xxxxxxx.execute-api.us-west-2.amazonaws.com/dev/auth) and add it to your TwiML app as the request URL.
 3. Test out by sending a text to your Twilio number and you should get a response back.
+
+
+# Donate
+Donate generously! [![Support](https://www.buymeacoffee.com/assets/img/custom_images/white_img.png)](https://www.buymeacoffee.com/maheshnama098)
